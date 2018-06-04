@@ -9,8 +9,13 @@
 ## 开始吧
 + step1：node版本大于4.0.0
 + step2：
+
 `npm install webpack@^2.0.0 webpack-cli@^2.0.0 webpack-dev-server@^2.0.0 babel -g`
+
 + step3:
-`npm install
+
+`npm install`
+
 + step4:
+
 `npm start`
